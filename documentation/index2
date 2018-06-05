@@ -1,0 +1,376 @@
+<h1 id="accessibility-guidance">Accessibility Guidance</h1><h2 id="background">Background</h2>
+<p>‘Accessibility’ refers to principles and techniques to follow when you design, build, maintain and update websites and mobile apps in order to remove barriers to use, especially for people with disabilities.</p>
+
+<p>People are diverse and have a range of capabilities</p>
+
+<p>New <a href="https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps">accessibility regulations</a> requires UK public sector body websites and mobile applications to be accessible, unless it would be disproportionate to do so. The regulations implement a new EU Directive.</p>
+
+<p>The new rules will come into force in 3 stages.</p>
+
+<ul>
+<li>New public sector websites published after 23 September 2018 by 23 September 2019.</li>
+<li>Existing public sector websites by 23 September 2020</li>
+<li>Mobile applications by 23 June 2021</li>
+</ul>
+
+<p>There will be government checks to make sure that websites and apps follow the rules.</p>
+
+<p>The regulations builds on existing UK legislation and commitments:</p>
+
+<ul>
+<li>The <a href="https://www.gov.uk/guidance/equality-act-2010-guidance">Equality Act 2010</a> legally protects people from discrimination in the workplace and in wider society</li>
+<li>The UK has approved the United Nations Convention on the Rights of Persons with Disabilities (UNCRPD) which requires measures to ensure access for persons with disabilities, on equal basis with others to information, communication technologies and the internet</li>
+</ul>
+<h2 id="why-accessibility-is-important">Why Accessibility is important</h2>
+<p>In addition to the legal drivers, there are social, financial and technical incentives for accessibility.</p>
+<h3 id="social-factors">Social factors</h3>
+<p>Public sector websites must address the needs of citizens throughout the country. An accessible website can provide access to information on a far wider scale than previously possible. Social incentives for accessibility include:</p>
+
+<ul>
+<li>Disabled people have easier access to printed, audio or visual material</li>
+<li>Citizens can access services and information, regardless of experience or ability</li>
+<li>Everyone will find the website easier to use, improving their ability to successfully complete goals online.</li>
+<li>People using all kinds of devices, from the oldest to the newest, will be able to use the website, helping to reduce the impact of the digital divide</li>
+<li>Greater interaction between citizens and government is possible with a user friendly, accessible website</li>
+</ul>
+<h3 id="financial-factors">Financial factors</h3>
+<p>A user friendly and accessible website can reduce costs both directly and indirectly. Accessibility is viewed as an expensive afterthought, but it can provide many cost benefits. The key is to build in accessibility from the outset, making inclusive design a priority throughout the development lifecycle of the website. Financial incentives for inclusive design include:</p>
+
+<ul>
+<li>Accessible web pages tend to be lighter (physically smaller) which reduces bandwidth costs and improves page response times - leading to improved customer experience</li>
+<li>Increasingly, people will be able to access services and information online, representing a reduction in costs needed for support resources such as call centres</li>
+<li>Ongoing maintenance and hosting costs can be significantly reduced</li>
+<li>Providing one website supporting multiple audiences is more efficient than running multiple websites for multiple audiences</li>
+</ul>
+<h3 id="technical-factors">Technical factors</h3>
+<p>Technical concerns vary throughout the different levels of government. The resources and technical capabilities of a district council may differ from those of a central government body. Improving technical performance and delivering reliable digital services is important across the board. Technical incentives for inclusive design include:</p>
+
+<ul>
+<li>Following recognised standards and guidelines for web accessibility can help ensure that future technologies will be able to access the site</li>
+<li>Compatibility with more browsers and technologies such as mobile.</li>
+<li>Access to a wide range of assistive technologies</li>
+<li>Improved levels of traffic may be driven to the site through Search Engine Optimisation (SEO)</li>
+</ul>
+
+<p>What you’ll need to do
+Unless your organisation is exempt, you’ll need to both:</p>
+
+<p>meet accessibility standards
+publish an accessibility statement</p>
+<h2 id="accessibility-requirements">Accessibility Requirements</h2>
+<p>You’ll meet the new rules if your website or app meets European <a href="http://mandate376.standards.eu/standard">accessibility standard EN 301 549</a>.</p>
+
+<p>This European standard currently uses the Web Content Accessibility Guidelines (WCAG) 2.0 to level AA. The standard may be updated to use WCAG 2.1, which is due to release in June 2018.</p>
+
+<p>Website owners will need to evaluate the accessibility of their websites (including intranets and extranets and non-web documents such as PDFs) and mobile applications and include details of this in an accessibility statement.</p>
+
+<p>Some public sector bodies are exempt from the regulations, so the content of their websites and mobile apps won’t have to follow the new rules. These exemptions include:</p>
+
+<ul>
+<li>public service broadcasters, for example the BBC and their subsidiaries</li>
+<li>non-governmental organisations that don’t provide services that are essential to the public, or services that specifically address the needs of, or are meant for, people with disabilities</li>
+<li>schools, kindergartens and nurseries, except for content they produce which relates to ‘essential online administrative functions’ (and only if that content isn’t provided in an accessible way on another website). </li>
+</ul>
+<h3 id="the-en-301-549-accessibility-standard">The EN 301 549 Accessibility Standard</h3>
+<p>EN 301 549 is a standard which specifies a broad range of accessibility requirements applicable to ICT products and services (including web pages, non-web documents and software).</p>
+
+<p>The standard has two main sections. The first outlines the accessibility needs of different user groups. The second has detailed requirements on how user’s need must be met for different products and services.</p>
+<h4 id="accessibility-needs">Accessibility needs</h4>
+<p>The standard has a series of ‘functional performance statements’ that identify user’s access needs that must be met to conform with the standard. They focus on users who:</p>
+
+<ul>
+<li>are blind, have low vision, or are colour-blind</li>
+<li>are deaf or hearing impaired</li>
+<li>cannot communicate vocally</li>
+<li>have limited hand strength or limited reach</li>
+<li>may experience seizures</li>
+<li>are neurodiverse.</li>
+</ul>
+<h4 id="the-en-301-549-accessibility-standard-accessibility-requirements">Accessibility requirements</h4>
+<p>The standard also has a long list of ‘functional accessibility requirements’ for different types of products and services, each of which need to be met in order to satisfy the procurement guidelines. Requirements focus on the way that information can be presented, viewed, or interacted with.</p>
+
+<p>Accessibility requirements for websites and web content leverage the Web Content Accessibility Guidelines, explicitly stating WCAG 2.0 Level AA (including Level A) as the benchmark. Where it’s appropriate, relevant WCAG criteria have been applied to other technologies, such as non-web documents and software.
+</p>
+<h2 id="the-web-content-accessibility-guidelines">The Web Content Accessibility Guidelines</h2>
+<p>The Web Content Accessibility Guidelines (known as WCAG 2.0) are an internationally recognised set of recommendations for improving web accessibility.</p>
+
+<p>They explain how to make digital services accessible to everyone, including users with impairments to their:
+* sight - blind, partially sighted or colour blind people
+* hearing - people who are deaf or hard of hearing
+* mobility - like those who find it difficult to use a mouse or keyboard
+* thinking and understanding - people with dyslexia, autism or other learning difficulties</p>
+
+<p>WCAG 2.0 is based on 4 principles:
+* perceivable
+* operable
+* Understandable
+* Robust</p>
+
+<p>For a website or mobile app to be considered accessible it must meet these principles. </p>
+<h3 id="perceivable">Perceivable</h3>
+<p>‘Perceivable’ means that information and user interface components must be presented to users in ways they can perceive in some way - it can’t be invisible to all of their senses.
+* Images have appropriate alternative text
+* Videos have captions and audio descriptions
+* The web page or document include headings, lists and other semantic elements to communicate document structure
+* The tab order and read order are logical and intuitive
+* Form fields have appropriately coded labels and prompts
+* You avoided using visual characteristics to communicate information
+* Content is available if you can’t distinguish colors
+* The interface have sufficient contrast between text color and background color
+* Text can be resized without losing information</p>
+<h3 id="operable">Operable</h3>
+<p>‘Operable’ means that any person must be able to use interface components (such as buttons and forms) and navigation. These can’t require interaction that a user can’t perform.
+* Everything on the page be operated by keyboard alone
+* The web page include a visible focus indicator
+* Pages that have time limits include mechanisms for adjusting those limits
+* The web page or document have a title that describes its topic or purpose
+* Mechanisms in place that allow users to bypass blocks of content
+* Link text is meaningful, independent of context</p>
+<h3 id="understandable">Understandable</h3>
+<p>‘Understandable’ means users must be able to understand any information presented, as well as being able to operate the interface (the content or operation cannot be beyond their understanding)
+* The language of the content has been defined
+* You avoided links, controls, or form fields that automatically trigger a change in context
+* Navigation is consistent
+* Forms provide helpful, accessible error and verification messages</p>
+<h3 id="robust">Robust</h3>
+<p>‘Robust’ means that the content must be capable of being interpreted reliably by a wide variety of user agents, including assistive technologies such as screen readers. It also means users must be able to access the content as technology changes over time
+* The web page is coded using valid HTML (or at least well formed and correctly nested HTML) 
+* Dynamic interfaces are coded correctly
+</p>
+<h2 id="accessibility-statements">Accessibility statements</h2>
+<p>You are required to publish an accessibility statement. 
+It must:
+* be in an accessible format
+* be updated frequently
+* use the model accessibility statement framework adopted by the European Commission (this will be provided by Dec 2018)</p>
+
+<p>It must include:<br>
+* a list of any parts of the website or app that aren’t accessible, an explanation of why, and links to accessible alternatives
+* a feedback mechanism that can be used by any person to tell you about content in the website or app that doesn’t meet the accessibility requirements, and to request information they are excluded from. This information could include  content that is excluded from the scope of the Directive such as documents, pre-recorded time-based media or the content of archived websites.In response to a legitimate and reasonable request, you should provide information within a reasonable period of time.
+* a link to the UK government&rsquo;s enforcement procedure which people can use in the event of an unsatisfactory response to the use of the feedback mechanism above</p>
+
+<p>Information about how the accessibility of apps must be provided whenever the apps are available for download from a third-party website, for example the Apple App Store or the Google Play Store. The information should be alongside the description of the app presented to users before they download it from any third-party website.</p>
+
+<h2 id="measuring-accessibility">Measuring accessibility</h2>
+<p>The only way to find out if a website is accessible is to test it. Technical accessibility and usable accessibility must be considered when testing. Technical accessibility determines whether the site meets WCAG 2.0 and will work with a range of assistive technologies. Usable accessibility determines whether the site will be usable by disabled people.
+An accessibility test plan is an essential component of meeting accessibility requirements. When developing your accessibility test plan, you should consider using an appropriate mixture of tools and techniques. For example, you may wish to use expert reviews early on in the development cycle, user testing on later designs and automated testing at regular intervals. Please note that this approach may not be appropriate in specific cases. It serves to highlight that different methods for evaluating accessibility which may be more or less appropriate at different stages of the development cycle.
+Your accessibility test plan must include methods for testing both technical and usable accessibility.</p>
+<h3 id="how-to-test-for-technical-accessibility">How to test for technical accessibility</h3>
+<p>Approaches for determining technical accessibility include:
+Automated testing to determine whether the website upholds some of the checkpoints of the W3C Web Content Accessibility Guidelines (WCAG);
+Manual testing of code to determine whether it upholds W3C guidelines and specifications - tools include validators for HTML and style sheets;
+Assistive technology testing to determine whether the website can be accessed using the tools commonly used by disabled users.
+Conformance Testing to determine the Web Content Accessibility Guidelines (WCAG) conformance level for the website or check that it meets a specified WCAG conformance level;</p>
+<h4 id="automated-testing">Automated testing</h4>
+<p>There are a number of free and commercially available automated testing tools that provide a way to measure conformance to some of the W3C guidelines. Website developers and testers should be aware of the capabilities and limitations of the tool being used. Although these tools check for a relatively small proportion of the W3C guidelines, they can be useful for analysing an entire site for technical accessibility.  Validation testing should also be undertaken by website developers to ensure that their mark-up conforms to W3C guidelines and specifications. The W3C Markup Validation Service should be used to validate HTML. This is an important exercise as assistive technologies may rely on mark-up meeting these specifications.</p>
+<h4 id="manual-testing">Manual testing</h4>
+<p>Manual testing …..</p>
+<h4 id="assistive-technology-testing">Assistive technology testing</h4>
+<p>Assistive technology tool testing is a way to check that the tools commonly used by disabled users can read and interact with the web content and controls can be activated. If a website conforms to the W3C guidelines, assistive technologies should work with the site. Assistive technology tool tests can provide a relatively quick way for a tester with specialist knowledge of the tools to assess the website&rsquo;s technical accessibility.</p>
+<h4 id="conformance-inspection">Conformance inspection</h4>
+<p>A conformance inspection is a systematic manual review of each web page against the W3C guidelines as specified, which typically follows a validation test and involves reviewing each piece of content and control on a page. Conformance inspections provide a single method for determining whether a website upholds WCAG. However, they are time consuming and require an expert in accessibility, usability and website design.
+Because of the amount of effort spent inspecting a page, a useful technique is to test a representative sample of the total web pages. This sample may be pages with high usage or involve critical functions such as form filling.</p>
+<h3 id="how-to-test-for-usable-accessibility">How to test for usable accessibility</h3>
+<p>Methods for determining usable accessibility include:
+Expert reviews, involving specialists in usability and accessibility, to evaluate the website in order to find potential problems;
+User testing to identify any usability and accessibility problems real-world users may have.</p>
+<h4 id="expert-review">Expert review</h4>
+<p>There are different types of structured expert review methods, including:
+* Heuristic evaluation, where an interface is inspected against a set of heuristics or guidelines, and;
+* Cognitive walk-through, where evaluators step through a series of actions with a goal of completing a typical user task.</p>
+
+<p>In all cases, experts can use assistive technology as part of the expert review process. However, specialist training is often required to make sure that how the technologies are used closely matches the how they would be used by a disabled person.
+Expert reviews can be conducted on early designs and finished code and are relatively quick and inexpensive to perform. They can identify quality and consistency issues not typically identified during user testing. However, they do not find the same type or number of problems as user testing and in some cases can identify problems that real users would not experience. It should also be noted that the quality of the findings is directly related to the skill and experience of the experts.</p>
+<h4 id="user-testing">User testing</h4>
+<p>User testing involves recruiting a set of representative users and asking them to attempt to use a website to achieve a set of representative tasks. User testing should include users from a range of disabilities and preferences, including a mix of beginners and experienced web users using a range of assistive technologies.</p>
+
+<p>It is recommended that user testing is included in all website development projects as it provides the best evidence that a website will be usable by disabled people. The testing process used should conform to BS EN ISO 13407:1999, Human-centred design processes for interactive systems.</p>
+
+<p>User testing relies on creating user profiles that describe the types of people who you want and believe should be able to use the website and then recruiting users who match these profiles.
+</p>
+<h2 id="user-profiles">User profiles</h2>
+<p>It is important to define your target audience to understand the needs, preferences and abilities of potential users of your website. User profiles help to develop this understanding. They illustrate the common issues faced by users and any assistive technologies they might use.</p>
+
+<p>There are four main categories of impairment to consider. These are vision impairment; motor difficulties; cognitive and learning; and deaf and hard of hearing.</p>
+<h3 id="vision-impairment">Vision impairment</h3>
+<p>Users with severe vision impairment, e.g. users of screen reader software. Screen reader users typically have issues with poorly labelled images, or links which don&rsquo;t make sense when read out of context.</p>
+
+<p>Users with medium vision impairment, e.g. users of magnification software. Magnification users are hindered by images of text (which become pixelated at high resolutions).</p>
+
+<p>Users with mild vision impairment, e.g. users who might enlarge text in the browser with high contrast and use colour preferences.</p>
+<h3 id="motor-difficulties">Motor difficulties</h3>
+<p>Users with severe motor difficulties, e.g. users who are quadriplegic who might use speech recognition software or switch access as an alternative to the keyboard or mouse.</p>
+
+<p>Users with medium motor difficulties or upper limb disorder, e.g. users who might only use a keyboard, a mouse being too difficult to use. Keyboard users have issues with navigation or forms that don&rsquo;t have a logical tab order.</p>
+
+<p>Users with mild motor difficulties, e.g. users who might use a mouse or equivalent adaptive technology but who might have fine mouse control difficulties. Link size is an important issue for this group of users.</p>
+<h3 id="cognitive-and-learning">Cognitive and learning</h3>
+<p>Users with medium dyslexia, e.g. users who might change site colours or text formatting, and who might supplement this with text to speech software for reading sections of text.</p>
+
+<p>Users with mild to medium learning or cognitive disabilities, e.g. users who might use a symbol browser to convert web pages to symbols or have no special access methodologies and rely on someone else assisting them.</p>
+<h3 id="deaf-and-hard-of-hearing">Deaf and hard of hearing</h3>
+<p>British Sign Language (BSL) users who might experience problems with multimedia content or complex language.</p>
+
+<p>Non-signing deaf or hard of hearing, e.g. users who might benefit from captions or transcripts of audio content.</p>
+
+<p>The above categorisation is purely for illustrative purposes. In reality, users may have a combination of impairments. For example, older users may have a combination of reduced vision, restricted mobility and decline in memory.</p>
+
+<p>Furthermore, the above categorisation does not mean that a user profile should be developed for each of the above types. A common approach is to add some of the above characteristics to a few of the existing profiles that have been defined for a website.
+More information on including accessibility in user profiles in Just Ask: Integrating Accessibility Throughout Design.</p>
+<h3 id="older-users">Older users</h3>
+<p>Older people can suffer from physical disabilities, such as a restricted ability to move their arms or hands. They might experience difficulty using a mouse.</p>
+
+<p>The performance of the eye diminishes with age and can lead to decreased visual acuity, contrast or colour sensitivity, reduced field of vision, or an increased sensitivity to glare. Older people that have such visual impairments tend to find it difficult to point to specific objects on the screen and click on small icons with the mouse.</p>
+
+<p>Older people that suffer from a reduced spatial ability and a decline in memory might find it difficult to navigate deep hierarchies of a website.
+</p>
+<h2 id="assistive-technology">Assistive technology</h2>
+<p>Assistive technologies are any item, piece of equipment, software or hardware system that helps a person with disabilities to interact with computers. The following page describes some of the more common examples.</p>
+<h3 id="screen-readers">Screen readers</h3>
+<p>Screen readers are software applications that read the text on a web page. Most screen readers can also read alternative (alt) text for images. If a web page includes accessibility features, a screen reader can usually provide the user with more information about the page - for example, by announcing heading levels or by reading all the links on the page.</p>
+<h3 id="braille-displays">Braille displays</h3>
+<p>These are hardware devices that provide tactile outputs that are generally set up to output from screen reader software, but instead of outputting through a speech synthesiser they output to a refreshable retractable Braille display or a fixed single line display. Braille displays are unable to output multimedia or graphics content and totally rely on the provision of appropriate text and text alternatives.</p>
+<h3 id="screen-magnifiers">Screen magnifiers</h3>
+<p>Magnifiers or enlargers work by increasing the size of the image displayed on a screen. Navigation can be a problem as the user may only see a portion of the original screen at any one moment.</p>
+<h3 id="speech-recognition">Speech recognition</h3>
+<p>These applications allow a user to give commands and enter data by talking to their computer - so the input device is a microphone rather than a keyboard. Such software contains a vocabulary and users need to train the software to recognise their individual voices.</p>
+<h3 id="adaptive-hardware-and-input-devices">Adaptive hardware and input devices</h3>
+<p>Users with a physical disability are more likely to struggle using the standard keyboard or mouse and may find it easier using ergonomic or specialised devices. Specialised keyboard and mouse designs are often referred to as assistive technology. Common technologies employed by physically disabled users are: alternative keyboards, on-screen keyboard emulators, mice, switches and pointing devices.</p>
+<h3 id="speech-enablement">Speech enablement</h3>
+<p>This falls into two categories: first - applications that enable browsing of web content in audio. Combining text-to-speech technology they are generally limited to web browsing. This technology does not cope with multimedia or graphical content and therefore relies on the provision of appropriate text and alternative texts. Second - there is speech enablement as a channel, either client-based or served-based, intended as an option for users who have difficulties reading a website. This is a text-to-speech method that offers enhanced legibility for users with dyslexia, learning difficulties or with English as a second language.
+</p>
+<h2 id="quick-start-accessibility-best-practices">Quick Start: Accessibility best practices</h2>
+<p>This section suggests possible design solutions to problems that might be faced by people using your website. This is not an exhaustive list of web accessibility guidelines; it illustrates some of the techniques that may be used to make your website more usable by a wider population. Wherever possible, the impact for different user profiles is explained.</p>
+<h3 id="language-and-text">Language and text</h3>
+<p>Keep the content simple
+Avoid the use of jargon and complex words. This can be helpful users with cognitive impairments, and benefits all users.</p>
+<h3 id="justified-text">Justified text</h3>
+<p>Text shouldn&rsquo;t be justified as users with dyslexia find this more difficult to read than if the text is left aligned.</p>
+<h3 id="graphical-text">Graphical text</h3>
+<p>The use of images of text is undesirable for a number of reasons.</p>
+
+<p>Users who have low vision may prefer different fonts or colour combinations, may need to increase the text using browser options, or use magnification software to enlarge the text beyond the maximum size the browser can offer.</p>
+
+<p>Images of text cannot have their appearance altered by the user - they cannot be enlarged in most browsers, cannot have their colours altered to a higher contrast combination (e.g. white on black) and cannot have their font changed to one preferred by the user.</p>
+
+<p>Unlike normal text, images of text become pixelated when enlarged by magnification software (particularly at higher levels), so users reliant upon this method of access can have significant difficulty in reading the information.</p>
+
+<p>Images of text should be limited to logos and not used for items such as headings or navigation.</p>
+<h3 id="ensure-that-text-size-can-be-changed">Ensure that text size can be changed</h3>
+<p>Ensure that text sizes are not fixed and can be resized. Some people need to change the text size to make it more legible. Users with motor control difficultiesmay need to increase the text size to make it easier to select links.</p>
+<h3 id="links-and-navigation">Links and Navigation</h3>
+<p>Make a big clickable area
+Ensure that links and images are a decent size and not too close together. For example ensure that the &lsquo;Go&rsquo; button on a &#39;Search form&rsquo; is a good size enabling users who have poor motor control to be able to select the button more easily.
+Descriptive links
+Link text should give the user a clear idea of the destination and make sense when read out of context. Avoid the use of &#39;click here&rsquo;, for example. This is particularly important for screen reader users who may use a list of links to navigate the page.
+Keyboard shortcuts
+Providing a &#39;skip to content&rsquo; link enhances the accessibility for users accessing the website via the keyboard, particularly if they have to tab through a large number of navigational links to get to the main content.
+Highlighting &#39;skip to content&rsquo; links as they are activated may be useful for keyboard-only users with vision (e.g. motor impaired) as this may be the only cue to their existence.
+Ensure that all functionality is available through the keyboard as well as the mouse
+This can be checked by tabbing through links and forms using the keyboard to ensure they can be accessed - and in a sensible order. This is important because users with vision impairments will not have good hand-eye co-ordination and are more likely to interact with the website solely through the use of their keyboard. </p>
+<h3 id="images">Images</h3>
+<p>Images and icons
+Images and other media used to enhance textual content can often aid in the understanding of the information. This can be helpful users with cognitive impairments.
+Alternative (alt) text
+Ensure that all meaningful images have meaningful alt text. This alt text is read out by the screen reader so that the user understands what is being shown on the screen. This is important for users with severe vision impairments. </p>
+
+<p>One of the most common alt text mistakes is to use &ldquo;Image (or picture or photo) of x&rdquo;. A screen reader will tell the user that an image is present - they don&rsquo;t need this information twice. Do not start alt text with &ldquo;Image (or picture or photo) of&hellip; &rdquo;</p>
+
+<p>Use empty alt text if normal text already conveys the information provided by the image. For example, if you use a document thumbnail to illustrate a text link to a PDF, and the text link includes the title of the document, use empty alt text for the image (a pair of double quotes with no space between them). Using alt text that repeats the title of the document is pointless and distracting for users of screen readers.</p>
+
+<p>Use empty alt text for any images that are purely decorative - for example the rounded corners of boxes.</p>
+<h3 id="colour">Colour</h3>
+<p>Allow for flexibility
+Some dyslexic users find it more comfortable to read text on a beige background. Ensure that colours can be changed in the browser and that they have not been forced by the web developer. You could also consider offering a different stylesheet.
+Do not rely on colour alone to convey information
+Blind users may not be able to get information about colour definitions from their screen reading software and using colour also presents difficulties for colour blind users.</p>
+
+<p>You may find it useful to test web pages with VisCheck to simulate how they look to colour blind users.
+Use good contrasting colours
+Consider using a tool such as Juicy Studio&rsquo;s Colour Contrast Analyser or Fujitsu ColorSelector to help you measure colour contrast and determine the best combinations.</p>
+<h3 id="layout">Layout</h3>
+<p>Consistent design
+This can be helpful users with cognitive impairments, and benefits all users.</p>
+<h3 id="white-space">White space</h3>
+<p>Separating page elements using white space makes it easier for users with cognitive difficulties to read web pages.</p>
+<h3 id="forms">Forms</h3>
+<p>Associating labels with form fields is important for screen reader users so that they can identify which label describes each form field. For more information on creating accessible forms, please refer to WebAIM.</p>
+
+<p>It is important to allow sufficient space in form fields to allow users to enter the correct information.
+CAPTCHAS
+CAPTCHAS (Completely Automated Public Turing test to tell Computers and Humans Apart) are used in forms to make sure that the entity filling out the form is a human being rather than a computer program that was written to submit the form many times. One type of CAPTCHA is to take a random string of characters, generate a distorted image of the text and require the user to type the letters in the image. This works because it is easier for a human being to solve than a computer.</p>
+
+<p>However, tests relying solely on visual perception (e.g. an image of distorted text) present an accessibility barrier to some users, for example due to visual impairments. Therefore, forms with CAPTCHAs should provide an alternative audio version in addition to the visual test. For example, an audio file such as an MP3 is provided with the letters spoken by different speakers and with background speech. Again, the idea is that the test is easier for a human to pass than a computer.</p>
+<h3 id="tables">Tables</h3>
+<p>Associate data cells with their headers for data tables
+Using table headers for data tables helps a screen reader user to associate the content of a data cell with the row or column it&rsquo;s in. For more information on creating accessible tables, please refer to WebAIM.
+Animation
+Ensure animation can be paused or switched off
+Animation can be a distraction and seriously compromise the ability of people with learning disabilities to read content on a page. If you provide moving content ensure there is a way to disable the movement.
+Audio and video content
+Captions and transcripts
+Audio and video content can be inaccessible to deaf and hard of hearing users. Providing a text equivalent is important for these users but also beneficial to others for example, users in a noisy environment.
+Text equivalents for a movie
+Text equivalents should be provided for an entire movie in cases where the movie can be conveyed using a single text equivalent. Examples include movies that show a simple animation, banner adverts or complex multi-media that cannot otherwise be made accessible.
+Provide accessible controls
+When providing audio or video on a website, it is important to provide accessible controls to allow users (including keyboard and screen reader users) to interact with the video playback controls.
+</p>
+<h3 id="non-html-documents">Non-HTML Documents</h3>
+<p>The presentation of lengthy non-HTML documents on the Web should generally be avoided in favour of web pages. However, there may be instances where documents will need to remain in their original form e.g. for legal reasons. For these documents, there are a basic set of guidelines which should be adhered to:
+Ensure the text is sans serif (e.g. Arial, Helvetica), with a minimum font size of 12 points.
+Ensure the text is left aligned, not justified as justified text leads to &#39;rivers of white text&rsquo; being distracting to the reader.
+White space can be just as useful as the text. Over cluttering and complicating the page reduces readability.
+Avoid excessive use of capitalised, underlined or italicised text, consider bold for emphasis.
+Avoid underlining, except for links.
+Hyperlinks should be spelt out (e.g. in a footnote or endnote) because users may only have access to the printed version.
+Styles and Headings
+Use heading styles for headings - not simply bigger or bolder text. Heading styles ensure consistency; make a document easier to navigate for sighted users (and easier to maintain); and enable automatic tables of contents. They usually also provide the document with a built-in structure that is accessible to screen readers - when a Word document is converted to PDF, for example.</p>
+
+<p>If you intend to publish Microsoft Word documents, it is important to consider their accessibility and usability. When a document has been created using the styles and headings features specified above, those reading the document (and also those creating them) can use various inbuilt navigation systems. For mouse users the Document Map is available (View &gt; Document Map). By clicking headings displayed in the Document Map this expands or collapses headings in the tree and allows users to jump instantly to that heading in the main document. Screen reader users can use the Outline view (View &gt; Outline) to achieve much the same effect or alternatively use the navigation features built into their screen reader software such as &#39;Headings list&rsquo;. </p>
+
+<p>More detailed information on creating accessible Word documents on the TechDis website.</p>
+<h3 id="pdf-portable-document-format">PDF (Portable Document Format)</h3>
+<p>The portable document format (PDF) can be accessible if authors follow established best practices to include appropriate structure and equivalents for users with disabilities. It is important for PDF authors to incorporate within their PDF authoring workflows those steps that result in the creation of accessible PDF files.</p>
+
+<p>PDF is a destination format, that is to say PDF files begin in other applications, such as desktop publishing and word processing programs or as another file type, typically as a TIFF file in the case of scanned documents. Measures should be taken to maximise the accessibility in the source in order to enhance the accessibility of the resulting PDF file when converted.</p>
+
+<p>The basic guidelines for non-HTML documents should always be followed.</p>
+
+<p>In addition to the basic guidelines for non-HTML documents, publishers of PDF files should:
+Use tools and techniques that will result in the production of accessible PDF documents.
+Use the facilities (if available) in the word processing or authoring application to add meaningful alternative text to any graphics that appear in the document.
+Use features inbuilt into the word processor or design package to correctly specify heading levels and other styles to identify document elements such as Titles and Headings.
+Document authors when using the source document should avoid using character formatting techniques such as bolding text and modifying the font and size of text to create the visual appearance of heading levels and other structural elements.
+For tabular information, use the word processor or design package&rsquo;s inbuilt table editor (if available).
+If possible, select products that provide authors with the option to export tagged accessible PDF. This will reduce the amount of time verifying structure after the PDF is produced.
+If you intend to create a PDF by scanning a paper document, submit the content to Optical Character Recognition (OCR) and add the necessary accessibility components prior to distributing the PDF file (see section on PDF accessibility repair below).
+If you intend to use the PDF as an interactive document or form, add form fields and other controls with appropriate short descriptions for the form elements and controls.
+Repairing or improving the accessibility of an existing PDF file
+If a PDF file is created without following the above guidelines, it may require additional enhancements to improve its accessibility. To optimise the accessibility of existing or legacy PDF files, use the following process:
+First determine if the PDF file was created by scanning a printed page. Perform optical character recognition (OCR) on documents that were created as a result of scanning a document to create a PDF image of the scanned page.
+Second, determine if the PDF file is intended to be used as an interactive document or form. If so, add form fields and other controls with appropriate short descriptions for the form elements and controls.
+Third, determine if the PDF file has been given structure or &ldquo;tagged&rdquo;. If it has not been tagged, add tags to the file. Tags specify the logical read order of the PDF file and provide hooks for other accessibility elements such as alternative text descriptions for graphics.
+Once the PDF file has been tagged, add alternative text to graphics that are in the document and short descriptions to any form fields and interactive controls that are part of the document.
+Verify that the tagging is correct by evaluating its read order and ensuring all necessary alternate text elements are present for graphics and multimedia elements. If the document is a form or features interactive navigation, verify that short description labels are provided for form fields and interactive controls.</p>
+
+<p>For more detailed information refer to the Adobe information for PDF and Acrobat Accessibility</p>
+
+<h2 id="mobile-applications">Mobile Applications</h2>
+<p>Add resource links for testing
+</p>
+<h2 id="procurement">Procurement</h2><h3 id="requirements">Requirements</h3>
+<p>Fixing an inaccessible website after it has been completed can be difficult and costly and may not succeed in providing effective access. The best way to create an accessible website is to make sure that accessibility criteria are included throughout the project life cycle, starting with the procurement or commissioning stage.</p>
+
+<p>The Disability Discrimination Act creates the environment for anticipatory action and this approach is needed when a public sector department or agency buys software or systems for use by employees or the general public, as procurement is covered by the Disability Equality Duty.</p>
+
+<p>To help in the process of procuring accessible websites, the British Standards Institute and the Disability Rights Commission (DRC) collaborated to produce a Publicly Available Specification (PAS 78:2006) &ldquo;Guide to good practice in commissioning accessible websites&rdquo;. This is available free of charge from the Equality and Human Rights Commission website.</p>
+
+<p>PAS 78 provides guidance on the steps that should be taken to commission accessible websites, the guidelines and specifications to be adopted, and the role of software tools and user testing within the development life cycle. It is the reference point for good practice in website procurement.</p>
+
+<p>PAS 78 suggests that the following principles are followed when commissioning an accessible website:
+Uphold W3C guidelines and specifications
+Check for conformance
+Involve disabled people in the requirements gathering and conceptual design process
+Arrange regular testing by disabled people</p>
+
+<p>It is important to remember that websites require attention to accessibility throughout their life cycle - the job is not done as soon as the website is live. Maintenance and upgrades must also include accessibility criteria.</p>
